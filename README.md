@@ -33,9 +33,9 @@ This project presents a professional Excel dashboard designed to analyze and mon
 
 - **Excel:** Pivot Tables, Charts, Data Modeling, Conditional Formatting, Slicers, Maps.
 
-- **Data Analysis: ** Loan segmentation, risk profiling, borrower insights.
+- **Data Analysis:** Loan segmentation, risk profiling, borrower insights.
 
--** Dashboard Design:** KPI cards, visual hierarchy, user-friendly layout.
+- **Dashboard Design:** KPI cards, visual hierarchy, user-friendly layout.
 
 **📌 Outcomes**
 
@@ -47,8 +47,8 @@ This project presents a professional Excel dashboard designed to analyze and mon
 
 - Delivered a corporate-style dashboard suitable for banking and finance stakeholders.
 
-**🚀 How to Use
-**
+**🚀 How to Use**
+
 1.Open the Excel file.
 
 2.Use the Loan Grade and Purpose filters to adjust the view.
